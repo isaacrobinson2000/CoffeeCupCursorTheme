@@ -10,6 +10,18 @@ You can find the cursors on the releases page for Mac (via a [Mousecape](https:/
 
 [https://github.com/isaacrobinson2000/CursorCreate/releases](https://github.com/isaacrobinson2000/CursorCreate/releases)
 
+#### Linux
+
+Download and extract the theme from the tar.gz file, and then place the theme in "/usr/share/icons" or "~/.icons"
+
+#### Mac
+
+Download the the .cape file, and then double click on it. You will need to install [Mousecape](https://github.com/alexzielenski/Mousecape/releases) first.
+
+#### Windows
+
+Download and extract the theme for the zip file, then right click on the "install.inf" file and click "Install".
+
 ## Building From Source
 
 This project uses the CursorCreate build system for building cursors. You can find installation directions at the link below:
