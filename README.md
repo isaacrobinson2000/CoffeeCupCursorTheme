@@ -8,7 +8,7 @@ A cursor theme for those who need a daily dose of caffeine.
 
 You can find the cursors on the releases page for Mac (via a [Mousecape](https://github.com/alexzielenski/Mousecape) .cape), Linux, and Windows:
 
-[https://github.com/isaacrobinson2000/CursorCreate/releases](https://github.com/isaacrobinson2000/CursorCreate/releases)
+[https://github.com/isaacrobinson2000/CoffeeCupCursorTheme/releases](https://github.com/isaacrobinson2000/CoffeeCupCursorTheme/releases)
 
 #### Linux
 
