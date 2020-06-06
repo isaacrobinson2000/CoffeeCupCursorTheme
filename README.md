@@ -20,7 +20,7 @@ Download the the .cape file, and then double click on it. You will need to insta
 
 #### Windows
 
-Download and extract the theme for the zip file, then right click on the "install.inf" file and click "Install".
+Download and extract the theme from the zip file, then right click on the "install.inf" file and click "Install".
 
 ## Building From Source
 
